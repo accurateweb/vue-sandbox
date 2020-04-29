@@ -1,0 +1,7 @@
+export default {
+  city: null,
+  loadFromUrl(){
+    //Parse query string
+    //Find parameter and set    
+  }
+}
